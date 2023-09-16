@@ -1,7 +1,7 @@
 ﻿namespace BellaPieWeb.Models
 {
-    public class Sell
-    {
+	public class Sell
+	{
 
         public int Id { get; set; }
 
@@ -10,5 +10,5 @@
         public Decimal Total { get; set; }
 
 
-    }
+	}
 }

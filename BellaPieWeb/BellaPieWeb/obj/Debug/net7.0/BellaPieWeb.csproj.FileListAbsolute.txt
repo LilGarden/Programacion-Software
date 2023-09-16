@@ -28,3 +28,4 @@ C:\Users\User\source\repos\Programacion-Software\BellaPieWeb\BellaPieWeb\obj\Deb
 C:\Users\User\source\repos\Programacion-Software\BellaPieWeb\BellaPieWeb\obj\Debug\net7.0\BellaPieWeb.pdb
 C:\Users\User\source\repos\Programacion-Software\BellaPieWeb\BellaPieWeb\obj\Debug\net7.0\BellaPieWeb.genruntimeconfig.cache
 C:\Users\User\source\repos\Programacion-Software\BellaPieWeb\BellaPieWeb\obj\Debug\net7.0\ref\BellaPieWeb.dll
+C:\Users\User\source\repos\Programacion-Software\BellaPieWeb\BellaPieWeb\obj\Debug\net7.0\BellaPieWeb.csproj.AssemblyReference.cache
