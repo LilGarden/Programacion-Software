@@ -3560,19 +3560,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Thomas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Programacion-Software\\BellaPieWeb\\BellaPieWeb\\BellaPieWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas\\Source\\Repos\\LilGarden\\Programacion-Software\\BellaPieWeb\\BellaPieWeb\\BellaPieWeb.csproj",
       "projectName": "BellaPieWeb",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Programacion-Software\\BellaPieWeb\\BellaPieWeb\\BellaPieWeb.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Programacion-Software\\BellaPieWeb\\BellaPieWeb\\obj\\",
+      "projectPath": "C:\\Users\\Thomas\\Source\\Repos\\LilGarden\\Programacion-Software\\BellaPieWeb\\BellaPieWeb\\BellaPieWeb.csproj",
+      "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Thomas\\Source\\Repos\\LilGarden\\Programacion-Software\\BellaPieWeb\\BellaPieWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
