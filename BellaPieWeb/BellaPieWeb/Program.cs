@@ -7,11 +7,12 @@ var builder = WebApplication.CreateBuilder(args);
 var keyVaultEndpoint = new Uri(Environment.GetEnvironmentVariable("VaultUriAspNet"));
 builder.Configuration.AddAzureKeyVault(keyVaultEndpoint, new DefaultAzureCredential());
 
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<BellapiewebContext>(options => 
-                        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// un servicio de tipo BellapiewebContext que se conecte a la base de datos azure /con la cadena de conexion que se encuentra en el vault
+
 
 var app = builder.Build();
 
