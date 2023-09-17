@@ -9,12 +9,32 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BellaPieWeb
 build_property.RootNamespace = BellaPieWeb
-build_property.ProjectDir = C:\Users\Thomas\Source\Repos\LilGarden\Programacion-Software\BellaPieWeb\BellaPieWeb\
+build_property.ProjectDir = C:\Users\Thomas\source\repos\LilGarden\Programacion-Software\BellaPieWeb\BellaPieWeb\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Thomas\Source\Repos\LilGarden\Programacion-Software\BellaPieWeb\BellaPieWeb
+build_property.MSBuildProjectDirectory = C:\Users\Thomas\source\repos\LilGarden\Programacion-Software\BellaPieWeb\BellaPieWeb
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
@@ -24,12 +44,212 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/OrderProducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJQcm9kdWN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/OrderProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJQcm9kdWN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/OrderProducts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJQcm9kdWN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/OrderProducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJQcm9kdWN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/OrderProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJQcm9kdWN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SellProducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFByb2R1Y3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SellProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFByb2R1Y3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SellProducts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFByb2R1Y3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SellProducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFByb2R1Y3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SellProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFByb2R1Y3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Sells/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Sells/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Sells/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Sells/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Sells/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Stocks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Stocks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Stocks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Stocks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Stocks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SupplierProducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJQcm9kdWN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SupplierProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJQcm9kdWN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SupplierProducts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJQcm9kdWN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SupplierProducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJQcm9kdWN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/SupplierProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJQcm9kdWN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Suppliers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Suppliers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Suppliers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Suppliers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Suppliers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Trends/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Trends/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Trends/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Trends/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Trends/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Thomas/source/repos/LilGarden/Programacion-Software/BellaPieWeb/BellaPieWeb/Views/_ViewImports.cshtml]
